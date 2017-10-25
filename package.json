@@ -1,0 +1,12 @@
+{
+  "name": "distillery-publish-analysis-results",
+  "version": "1.0.0",
+  "description": "Distillery Publish Analysis Results.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.6.1"
+  }
+}
